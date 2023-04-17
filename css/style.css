@@ -13,3 +13,13 @@
     font-size: 1.5rem;
 }
 
+h1 {
+    margin-bottom: 0px;
+}
+
+#wrote-by {
+    color: #808080;
+}
+#wrote-by>span {
+    color: #3cb8ec;;
+}
