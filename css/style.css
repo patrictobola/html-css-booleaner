@@ -11,14 +11,22 @@ body {
 .top-banner {
     background-color: #4ea0ff;
     background-image: url('../img/pattern.png');
-    height: 70px;
+    height: 80px;
     background-size: 25% ;
     font-family: 'Rubik', sans-serif;
     color: #fff;
     text-shadow: 1px 1px 2px black;
-    font-size: 1.5rem;
+}
+#booleaner {
+    font-size: 1.8rem;
 }
 
+#the {
+    position: relative;
+    left: 20px;
+    top: 10px;
+    font-size: 1rem;
+}
 h1 {
     margin-bottom: 0px;
 }
