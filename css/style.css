@@ -1,0 +1,15 @@
+.container {
+    margin: 0px;
+}
+
+.top-banner {
+    background-color: #4ea0ff;
+    background-image: url('../img/pattern.png');
+    height: 70px;
+    background-size: 25% ;
+    font-family: 'Rubik', sans-serif;
+    color: #fff;
+    text-shadow: 1px 1px 2px black;
+    font-size: 1.5rem;
+}
+
