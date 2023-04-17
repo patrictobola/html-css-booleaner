@@ -1,5 +1,6 @@
 .container {
-    margin: 0px;
+    width: 1080px;
+    margin: 0px auto;
 }
 
 .top-banner {
@@ -22,4 +23,9 @@ h1 {
 }
 #wrote-by>span {
     color: #3cb8ec;;
+}
+
+figure {
+    margin-left: 0px;    
+    margin-bottom: 0px;    
 }
