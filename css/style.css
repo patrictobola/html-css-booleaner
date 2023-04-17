@@ -48,3 +48,28 @@ article>span {
 ul {
     padding: 20px;
 }
+
+td{
+    padding: 0px;
+}
+.items {
+    width: 350px;
+}
+
+table, tr, td {
+    border: none;
+    padding: none;
+}
+
+.table-description {
+    width: 600px;
+}
+
+thead>tr {
+    background-color: #20a9e5;
+    color: white;
+}
+
+.row-color {
+    background-color: #b1e5f2;
+}
