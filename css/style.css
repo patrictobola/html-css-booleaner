@@ -1,6 +1,7 @@
 .container {
     width: 1080px;
     margin: 0px auto;
+    font-size: 1.3rem;
 }
 
 .top-banner {
@@ -20,12 +21,30 @@ h1 {
 
 #wrote-by {
     color: #808080;
+    font-size: 1rem;
 }
 #wrote-by>span {
-    color: #3cb8ec;;
+    color: #3cb8ec;
 }
 
 figure {
     margin-left: 0px;    
     margin-bottom: 0px;    
+}
+
+.photo-description{
+    font-size: 0.8rem;
+}
+
+article {
+    margin-top: 20px;
+    font-size: 1.3rem;
+}
+
+article>span {
+    background-color: yellow;
+}
+
+ul {
+    padding: 20px;
 }
